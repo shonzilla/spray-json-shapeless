@@ -16,4 +16,4 @@ libraryDependencies ++= Seq(
   }
 } ++ Seq("com.chuusai" %% "shapeless" % "2.3.2")
 
-mimaPreviousArtifacts := Set(organization.value %% name.value % "1.3.0")
+mimaPreviousArtifacts := Set(organization.value %% name.value % "1.4.0")
