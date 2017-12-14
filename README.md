@@ -4,6 +4,9 @@ Automatically derive [spray-json][spray-json] `JsonFormat`s, powered by [shapele
 
 For documentation, [read the scaladocs](src/main/scala/fommil/sjs/FamilyFormats.scala) and for examples [read the test cases](src/test/scala/fommil/sjs/FamilyFormatsSpec.scala).
 
+[spray-json]: https://github.com/spray/spray-json
+[shapeless]: https://github.com/milessabin/shapeless
+
 **Please read the documentation - especially the caveats - and examples before raising a ticket.**
 
 ## TL;DR
